@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/musx/static/css/main.d8d93662.css",
+    "main.js": "/musx/static/js/main.e7d610d0.js",
+    "static/js/787.7b9a2a61.chunk.js": "/musx/static/js/787.7b9a2a61.chunk.js",
+    "index.html": "/musx/index.html",
+    "main.d8d93662.css.map": "/musx/static/css/main.d8d93662.css.map",
+    "main.e7d610d0.js.map": "/musx/static/js/main.e7d610d0.js.map",
+    "787.7b9a2a61.chunk.js.map": "/musx/static/js/787.7b9a2a61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d93662.css",
+    "static/js/main.e7d610d0.js"
+  ]
+}
